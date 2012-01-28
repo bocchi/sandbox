@@ -60,8 +60,8 @@ AgileSamurai DevLOVE道場 チームぼっち
 =========================================
 
 * インセプションデッキの続き
+* ユーザストーリに作った
 
-  * ユーザストーリに作った
   * https://docs.google.com/present/edit?id=0ASkUIbcN-11GZGdjN3htM3JfMzdjZ3EzZ3djcg&hl=ja
 
 3回目
@@ -112,7 +112,7 @@ Good 得られたものは何か cont..
   * 技術検証というかイテレーション0重要
 
 
-印象に残ったこと
+各回のふりかえり
 =========================================
 
 * https://cacoo.com/diagrams/ZWYLRcZAhGu72xb3
