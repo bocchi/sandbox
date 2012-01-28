@@ -5,11 +5,39 @@ AgileSamurai DevLove道場 チームぼっち
 やりたかったこと
 =========================================
 
-* TODO: このあたりの話を膨らます
+* エレベーターピッチ
 
-  * エレベーターピッチ
-  * リスク
-  * スライダー
+::
+
+    [Mobile IMapを進化]させたい
+    [大量のメールをさばく人（私）]向けの
+    [Mobile IMap2.0]というプロダクトは
+    [Webベースのメールクライアント]です。
+    これは[大量のメールを手軽に一覧すること]ができ、
+    [GMail]と違って
+    [スクロール機能]が備わっている
+
+やりたかったこと cont..
+=========================================
+
+* リスク
+
+  * UIの経験がほとんどないよ
+  * jQueryは使ったこと無いな
+  * Rubyのアプリケーションサーバ触ったことない
+  * net/imapが使えそうだけどIMAPの詳しい仕様を把握してないよ
+  * メールサーバはGMailでやりたいけど、大丈夫かな
+  * 合宿いけないかも
+
+やりたかったこと cont....
+=========================================
+
+* トレードオフスライダー
+
+  * 時間
+  * 予算
+  * 品質
+  * スコープ
 
 
 何が出来たのか
@@ -20,30 +48,35 @@ AgileSamurai DevLove道場 チームぼっち
 経過はどうだったか
 =========================================
 
-* TODO: 中身を少し膨らます
-
 1回目
 =========================================
 
 * インセプションデッキを作った
-* https://docs.google.com/present/edit?id=0ASkUIbcN-11GZGdjN3htM3JfMTdndnZrajdyZw&hl=ja
+
+  * 全部は終わらず..
+  * https://docs.google.com/present/edit?id=0ASkUIbcN-11GZGdjN3htM3JfMTdndnZrajdyZw&hl=ja
 
 2回目
 =========================================
 
-* ユーザストーリに作った
-* https://docs.google.com/present/edit?id=0ASkUIbcN-11GZGdjN3htM3JfMzdjZ3EzZ3djcg&hl=ja
+* インセプションデッキの続き
+
+  * ユーザストーリに作った
+  * https://docs.google.com/present/edit?id=0ASkUIbcN-11GZGdjN3htM3JfMzdjZ3EzZ3djcg&hl=ja
 
 3回目
 =========================================
 
 * ユーザストーリーをタスクに落とし込んだ
-* https://github.com/bocchi/sandbox/issues?sort=created&direction=desc&state=open
+
+  * 余分なストーリーを再検討したりした
+  * https://github.com/bocchi/sandbox/issues?sort=created&direction=desc&state=open
 
 4回目
 =========================================
 
 * herokuの環境を作った
+* 開発環境を作った
 * 中身に関しては時間外労働で。
 * https://github.com/bocchi/mobileimap2
 * http://mobileimap2.heroku.com/login
@@ -57,8 +90,6 @@ Good 得られたものは何か
 * チームビルディングができていなかった。
 
   * おたがいぼっちすぎた。腹が割れなかった
-  * なぜ?  恥ずかしかった。
-  * だってぼっちですもの。
 
 * モチベーションの維持ができていなかった
 
@@ -68,11 +99,10 @@ Good 得られたものは何か
 
 * 出席率が高かった
 
-* 道場内での活動では動くものができなかった。
-
 * 期間に対してスコープを大きかった?
 
   * トレードオフスライダーの調節がうまく出来ていなかったことがわかりました!
+  * 技術検証というかイテレーション0重要
 
 * 未経験の技術的な要素が多かった (Ruby, Heroku, Sinatra, IMAP)
 
